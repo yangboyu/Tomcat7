@@ -43,3 +43,4 @@ webapps/docs/jdbc-pool.xml
 /target
 /bin
 /launch
+start-tomcat7.launch
