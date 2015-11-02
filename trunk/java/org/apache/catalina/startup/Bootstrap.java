@@ -23,7 +23,11 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Map.Entry;
+import java.util.Properties;
 import java.util.StringTokenizer;
+
+import javax.swing.text.html.parser.Entity;
 
 import org.apache.catalina.Globals;
 import org.apache.catalina.security.SecurityClassLoad;

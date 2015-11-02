@@ -41,3 +41,6 @@ modules/jdbc-pool/bin
 modules/jdbc-pool/includes
 webapps/docs/jdbc-pool.xml
 /target
+/bin
+/launch
+start-tomcat7.launch
